@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cobaku/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cobaku/static/js/main.376fff8f.chunk.js",
+    "main.js.map": "/cobaku/static/js/main.376fff8f.chunk.js.map",
+    "runtime-main.js": "/cobaku/static/js/runtime-main.b75bfda7.js",
+    "runtime-main.js.map": "/cobaku/static/js/runtime-main.b75bfda7.js.map",
+    "static/css/2.557c666b.chunk.css": "/cobaku/static/css/2.557c666b.chunk.css",
+    "static/js/2.95c05fc0.chunk.js": "/cobaku/static/js/2.95c05fc0.chunk.js",
+    "static/js/2.95c05fc0.chunk.js.map": "/cobaku/static/js/2.95c05fc0.chunk.js.map",
+    "index.html": "/cobaku/index.html",
+    "precache-manifest.2b565a1ede62974ec107a0243da7a328.js": "/cobaku/precache-manifest.2b565a1ede62974ec107a0243da7a328.js",
+    "service-worker.js": "/cobaku/service-worker.js",
+    "static/css/2.557c666b.chunk.css.map": "/cobaku/static/css/2.557c666b.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/cobaku/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.95c05fc0.chunk.js.LICENSE.txt": "/cobaku/static/js/2.95c05fc0.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/cobaku/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/cobaku/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b75bfda7.js",
+    "static/css/2.557c666b.chunk.css",
+    "static/js/2.95c05fc0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.376fff8f.chunk.js"
+  ]
+}
